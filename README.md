@@ -1,6 +1,3 @@
-# HandleHero
-A hands-free door unlocking device designed for people carrying groceries.
-
 # Handle Hero – Hands-Free Door Opener
 
 ## Project Overview
