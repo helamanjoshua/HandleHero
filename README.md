@@ -20,9 +20,3 @@ Handle Hero is a device designed to help people open doors while carrying grocer
 - 3D printing and prototyping
 - Servo motor and electronics
 - Engineering calculations and testing
-
-## Results
-Add your final prototype photos, testing results, and design improvements here.
-
-## Images
-Add photos of your CAD model and finished prototype here.
